@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-//Develop
+//Develop.2
 public class SistemaCitasMedicas {
 //Clases
     public static class Cita {
